@@ -1,0 +1,33 @@
+backcall==0.2.0
+certifi==2020.12.5
+colorama @ file:///tmp/build/80754af9/colorama_1603211150991/work
+cycler==0.10.0
+decorator==4.4.2
+ipykernel @ file:///C:/ci/ipykernel_1596208728219/work/dist/ipykernel-5.3.4-py3-none-any.whl
+ipython @ file:///C:/ci/ipython_1604101327119/work
+ipython-genutils @ file:///tmp/build/80754af9/ipython_genutils_1606773439826/work
+jedi @ file:///C:/ci/jedi_1606932641827/work
+joblib @ file:///home/conda/feedstock_root/build_artifacts/joblib_1601671685479/work
+jupyter-client @ file:///tmp/build/80754af9/jupyter_client_1601311786391/work
+jupyter-core @ file:///C:/ci/jupyter_core_1606130908768/work
+kiwisolver @ file:///C:/ci/kiwisolver_1603996595157/work
+matplotlib @ file:///C:/ci/matplotlib-base_1603356257853/work
+numpy @ file:///D:/bld/numpy_1604946150193/work
+olefile==0.46
+parso==0.7.0
+pickleshare @ file:///tmp/build/80754af9/pickleshare_1606932040724/work
+Pillow @ file:///C:/ci/pillow_1603821929285/work
+prompt-toolkit @ file:///tmp/build/80754af9/prompt-toolkit_1602688806899/work
+Pygments @ file:///tmp/build/80754af9/pygments_1607368905949/work
+pyparsing==2.4.7
+python-dateutil==2.8.1
+pywin32==227
+pyzmq==20.0.0
+scikit-learn @ file:///D:/bld/scikit-learn_1605985844082/work
+scipy @ file:///C:/bld/scipy_1604305143982/work
+six @ file:///C:/ci/six_1605205426665/work
+threadpoolctl @ file:///tmp/tmp79xdzxkt/threadpoolctl-2.1.0-py3-none-any.whl
+tornado @ file:///C:/ci/tornado_1606935947090/work
+traitlets @ file:///tmp/build/80754af9/traitlets_1602787416690/work
+wcwidth @ file:///tmp/build/80754af9/wcwidth_1593447189090/work
+wincertstore==0.2

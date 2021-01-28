@@ -1,33 +1,64 @@
-backcall==0.2.0
+astroid==2.3.3
+autopep8==1.5
+backcall==0.1.0
 certifi==2020.12.5
-colorama @ file:///tmp/build/80754af9/colorama_1603211150991/work
+cffi==1.14.0
+cloudpickle==1.3.0
+colorama==0.4.3
 cycler==0.10.0
+Cython==0.29.20
 decorator==4.4.2
-ipykernel @ file:///C:/ci/ipykernel_1596208728219/work/dist/ipykernel-5.3.4-py3-none-any.whl
-ipython @ file:///C:/ci/ipython_1604101327119/work
-ipython-genutils @ file:///tmp/build/80754af9/ipython_genutils_1606773439826/work
-jedi @ file:///C:/ci/jedi_1606932641827/work
-joblib @ file:///home/conda/feedstock_root/build_artifacts/joblib_1601671685479/work
-jupyter-client @ file:///tmp/build/80754af9/jupyter_client_1601311786391/work
-jupyter-core @ file:///C:/ci/jupyter_core_1606130908768/work
-kiwisolver @ file:///C:/ci/kiwisolver_1603996595157/work
-matplotlib @ file:///C:/ci/matplotlib-base_1603356257853/work
-numpy @ file:///D:/bld/numpy_1604946150193/work
+entrypoints==0.3
+future==0.18.2
+graphviz==0.16
+Hexy==1.4.3
+imbalanced-learn==0.7.0
+imblearn==0.0
+ipykernel==5.1.4
+ipython==7.13.0
+ipython-genutils==0.2.0
+isort==4.3.21
+jedi==0.16.0
+joblib==0.14.1
+jupyter-client==6.1.2
+jupyter-core==4.6.3
+kiwisolver==1.1.0
+lazy-object-proxy==1.4.3
+matplotlib==3.1.3
+mccabe==0.6.1
+mkl-fft==1.0.15
+mkl-random==1.1.0
+mkl-service==2.3.0
+numpy==1.18.2
 olefile==0.46
-parso==0.7.0
-pickleshare @ file:///tmp/build/80754af9/pickleshare_1606932040724/work
-Pillow @ file:///C:/ci/pillow_1603821929285/work
-prompt-toolkit @ file:///tmp/build/80754af9/prompt-toolkit_1602688806899/work
-Pygments @ file:///tmp/build/80754af9/pygments_1607368905949/work
-pyparsing==2.4.7
+pandas==1.2.0
+parso==0.6.2
+patsy==0.5.1
+pickleshare==0.7.5
+Pillow==6.1.0
+prompt-toolkit==3.0.4
+pycodestyle==2.5.0
+pycparser==2.20
+pyglet==1.5.0
+Pygments==2.6.1
+pylint==2.4.4
+pyparsing==2.4.6
 python-dateutil==2.8.1
+pytz==2020.5
 pywin32==227
-pyzmq==20.0.0
-scikit-learn @ file:///D:/bld/scikit-learn_1605985844082/work
-scipy @ file:///C:/bld/scipy_1604305143982/work
-six @ file:///C:/ci/six_1605205426665/work
-threadpoolctl @ file:///tmp/tmp79xdzxkt/threadpoolctl-2.1.0-py3-none-any.whl
-tornado @ file:///C:/ci/tornado_1606935947090/work
-traitlets @ file:///tmp/build/80754af9/traitlets_1602787416690/work
-wcwidth @ file:///tmp/build/80754af9/wcwidth_1593447189090/work
+pyzmq==18.1.1
+scikit-learn==0.23.1
+scikit-posthocs==0.6.4
+scipy==1.5.2
+seaborn==0.11.1
+six==1.14.0
+statsmodels==0.11.1
+threadpoolctl==2.1.0
+torch==1.4.0
+torchsummary==1.5.1
+torchvision==0.5.0
+tornado==6.0.4
+traitlets==4.3.3
+wcwidth==0.1.9
 wincertstore==0.2
+wrapt==1.12.1
